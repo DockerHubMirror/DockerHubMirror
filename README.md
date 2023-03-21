@@ -1,3 +1,3 @@
 ### Automated mirror of specific popular Docker Hub images.
-###
-### > crane copy docker.io/packagename/packagename ghcr.io/dockerhubmirror/packagename
+
+*Powered by [regsync](https://github.com/regclient/regclient).*
